@@ -28,7 +28,7 @@ var parameter = {
 
 
 // 模块
-function initLable(parameter) {
+function init_lable(parameter) {
     // 初始化化参数
     var context = parameter["context"];
     var url = parameter["usrl"];
